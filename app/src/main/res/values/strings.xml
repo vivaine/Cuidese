@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cuide-se</string>
+    <string name="new_person">Nova pessoa</string>
+    <string name="new_vaccine">Nova vacina</string>
+    <string name="person_name_edit_text">Nome</string>
+    <string name="person_birth_edit_text">Nascimento</string>
+    <string name="ok">Ok</string>
+    <string name="date">DATA</string>
+    <string name="feminino">Feminino</string>
+    <string name="masculino">Masculino</string>
+    <string name="nascimento">Nascimento</string>
+    <string name="person_not_saved">A pessoa não foi salva!</string>
+</resources>

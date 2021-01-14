@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "BCG",
+    "ageMonths": 0,
+    "gender": 2
+  },
+  {
+    "id": 2,
+    "name": "Penta 1a. dose",
+    "ageMonths": 0,
+    "gender": 2
+  },
+  {
+    "id": 3,
+    "name": "Poliomelite 1, 2 e 3",
+    "ageMonths": 0,
+    "gender": 2
+  },
+  {
+    "id": 4,
+    "name": "Pneumocócica 10 valente",
+    "ageMonths": 0,
+    "gender": 2
+  },
+  {
+    "id": 5,
+    "name": "Rotavirus humano",
+    "ageMonths": 0,
+    "gender": 2
+  },
+  {
+    "id": 6,
+    "name": "Meningocócica C 1a. dose",
+    "ageMonths": 0,
+    "gender": 2
+  },
+  {
+  "id": 7,
+  "name": "Penta 2a. dose",
+  "ageMonths": 0,
+  "gender": 2
+  },
+  {
+  "id": 8,
+  "name": "HPV",
+  "ageMonths": 0,
+  "gender": 2
+  }
+]
